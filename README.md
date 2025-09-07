@@ -1,4 +1,4 @@
-# data-create-camp-2024
+# data-creator-camp-2024
 
 ## Fashion Style Image Classification & Preference Prediction
 
